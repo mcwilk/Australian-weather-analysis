@@ -11,7 +11,7 @@
 ## General info
 This Python script contains short analysis of weather in Australia from about 10 years of weather observations.
 
-It contains two tasks:
+Tasks:
 
 1. Which city has the highest average amount of rain during about 10 years of weather observations? What is the average humidity level in each city?
 
