@@ -17,6 +17,8 @@ It contains two tasks:
 
 2. What is average min and max temperature in Brisbane in each month?
 
+3. What is the number of sunny days in Sydney?
+
 ## Technologies
 * Python 3.7.4
 
@@ -24,7 +26,7 @@ It contains two tasks:
 * Python: pandas, numpy, matplotlib
 
 ## Status
-Project is: _finished_
+Project is: _in progress_
 
 ## Sources
 Dataset comes from: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/data
