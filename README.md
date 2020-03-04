@@ -27,7 +27,7 @@ It contains two tasks:
 Project is: _finished_
 
 ## Sources
-https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/data
+Dataset comes from: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/data
 
 ## Contact
 maciej.wilk04@gmail.com
