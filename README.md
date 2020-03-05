@@ -26,7 +26,7 @@ Tasks:
 * Python: pandas, numpy, matplotlib
 
 ## Status
-Project is: _in progress_
+Project is: _finished_
 
 ## Sources
 Dataset comes from: https://www.kaggle.com/jsphyg/weather-dataset-rattle-package/data
